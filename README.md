@@ -8,8 +8,6 @@
 
 🎓 IT Trainer @ESPRIT
 
-🔍 Learn learn learn !
-
 <h2 align='center'>🛠 Technologies & Tools</h2>
 
 ## Tech Stack
